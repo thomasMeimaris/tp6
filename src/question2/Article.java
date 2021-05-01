@@ -1,5 +1,5 @@
 package question2;
-
+/*
 public class Article {
     private long id;
     private String title;
@@ -47,3 +47,4 @@ public class Article {
                 '}';
     }
 }
+*/

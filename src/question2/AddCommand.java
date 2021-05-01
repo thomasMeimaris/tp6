@@ -1,5 +1,5 @@
 package question2;
-
+/*
 public class AddCommand implements Command<String> {
     private Article article;
 
@@ -7,3 +7,4 @@ public class AddCommand implements Command<String> {
         this.article = article;
     }
 }
+*/
